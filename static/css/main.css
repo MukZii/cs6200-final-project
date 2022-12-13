@@ -1,0 +1,54 @@
+body,
+html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(239, 244, 236);
+}
+
+.content {
+    margin: 0 auto;
+    width: 1200px;
+    color: rgb(15, 15, 15)
+}
+
+
+.header {
+    color: rgb(46, 235, 43);
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+
+}
+
+td {
+    text-align: left;
+    height: 30px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+
+.form {
+    margin: 30px;
+    text-align: center;
+}
+
+#content {
+    width: 50%;
+    height: 20px;
+}
+
+.title {
+    font-size: 15pt;
+    font-weight: 1000;
+}
+
+.url {
+    font-size: 12px;
+}
